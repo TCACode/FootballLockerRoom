@@ -7,6 +7,11 @@
     z-index:-100;
 }
 
+video{
+    padding: none; 
+    margins: none;
+    float: left;
+}
 
 .jumbotron {
     background-color: #5d0c8c;   
